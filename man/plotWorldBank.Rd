@@ -10,7 +10,7 @@ as a bar chart.}
 \item{iii:}{start_year}
 \item{iv:}{end_year}
 \item{v:}{color}}
-\author{Callan Windsor: callan.windsor@barcelonagse.eu}
+\author{Callan Windsor <callan.windsor@barcelonagse.eu>}
 \examples{
 plotWorldBank(country='US', indicator='NY.GDP.MKTP.CD', start_year='2002', end_year='2016', color='blue')
 plotWorldBank(country='US', indicator='GC.DOD.TOTL.GD.ZS', start_year='2010', end_year='2016', color='tomato3')
