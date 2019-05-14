@@ -1,0 +1,10 @@
+Package: plotWorldBank
+Type: Package
+Title: Produces a bar chart of any selected World Bank time series
+Version: 3.5.2
+Author: Callan Windsor
+Maintainer:  <callan.windsor@barcelonagse.eu>
+Description: Plots a selected World Bank time series over a selected time period as a bar chart
+Encoding: UTF-8
+LazyData: true
+Imports: XML, ggplot2
